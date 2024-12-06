@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    flex-direction: column;
+    align-items: center;
+}
+#contener{
+    display: inline-block;
+    border: solid 10px lavender;
+}
+#panel{
+    background-color: aliceblue;
+    display: block;
+}
+#btnBorrar {
+    padding: 8px 16px;
+    background-color: #ff4444;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#btnBorrar:hover {
+    background-color: #ff0000;
+}
+
+canvas {
+    border: 1px solid #000;
+    margin: 10px;
+}

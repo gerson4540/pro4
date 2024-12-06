@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+.caja{
+    width: 400px;
+    height: 400px;
+    border: solid 10px #fff000;
+    margin: 20px;
+    padding: 10px;
+}
+.caja2{
+    width: 400px;
+    height: 400px;
+    border: solid 10px #fff000;
+    margin: 20px;
+    padding: 10px;
+}
